@@ -1,0 +1,8 @@
+{
+    "name": "YourModName",
+    "version": "0.1.0",
+    "factorio_version": "1.1",
+    "title": "Your Mod Title",
+    "author": "Your Name",
+    "description": "This is a simple mod."
+}
